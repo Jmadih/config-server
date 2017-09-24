@@ -1,0 +1,3 @@
+server:
+  port: 8081
+whois: 'qa/service1@server1'

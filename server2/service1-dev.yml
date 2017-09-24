@@ -1,0 +1,3 @@
+server:
+  port: 8081
+whois: 'dev/service1@server2'
